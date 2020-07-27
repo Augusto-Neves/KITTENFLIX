@@ -1,0 +1,124 @@
+{
+  "categorias": [
+    {
+      "titulo": "Gatinhos Brincando",      
+      "cor": "#0082dc",
+      "link_extra": {
+        "text": "É hora do Show"        
+      },
+      "videos": [
+        {
+          "titulo": "Você ama Gatos?",
+          "url": "https://www.youtube.com/watch?v=Is3hYzyQ10I"
+        },
+        {
+          "titulo": "Gatos Engraçados e Fofos Brincando",
+          "url": "https://www.youtube.com/watch?v=6FQsIfE7sZM"
+        },
+        {
+          "titulo": "Gatos brincando com bêbes",
+          "url": "https://www.youtube.com/watch?v=0IE12NcqxxQ"
+        },
+        {
+          "titulo": "Brinca comigo humano",
+          "url": "https://www.youtube.com/watch?v=MzTyn02Gsqc&t=39s"
+        },
+        {
+          "titulo": "Ed Sheeran brincando com gatos",
+          "url": "https://www.youtube.com/watch?v=ilbBuEiRIts"
+        }               
+      ]
+    },
+    {
+      "titulo": "Gatos vs",
+      "cor": "#0082dc",
+      "link_extra": {
+        "text": "Compilado de gatos versus alguma coisa"        
+      },
+      "videos": [
+        {
+          "titulo": " ",
+          "url": " "
+        },
+        {
+          "titulo": "Gato vs Labirinto",
+          "url": "https://www.youtube.com/watch?v=VRZVQVUO4PU"
+        },
+        {
+          "titulo": "Gatos vs Parede Invisível",
+          "url": "https://www.youtube.com/watch?v=a_IA-8nQ4FY"
+        },
+        {
+          "titulo": "Gatos vs Dinossauros",
+          "url": "https://www.youtube.com/watch?v=saZFIuXU5W8"
+        }, 
+        {
+          "titulo": "Gatos vs Aspirador",
+          "url": "https://www.youtube.com/watch?v=IEuFUVM6f28"
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas Para Cuidar do Seu Gato",
+      "cor": "#0082dc",
+      "link_extra": {
+        "text": "Ótimas dicas para você cuidar do seu bichano"        
+      },
+      "videos": [
+        {
+          "titulo": " ",
+          "url": " "
+        },
+        {
+          "titulo": "O que não fazer com seu gato?",
+          "url": "https://www.youtube.com/watch?v=tDozSN5egJU"
+        },
+        {
+          "titulo": "Brinquedos fáceis de fazer para gatos",
+          "url": "https://www.youtube.com/watch?v=PVi2Plv1e8Q"
+        },
+        {
+          "titulo": "Você é o favorito?",
+          "url": "https://www.youtube.com/watch?v=FQZle5QmOqM"
+        },
+        {
+          "titulo": "Como diminuir a quantidade de pelos pela casa",
+          "url": "https://www.youtube.com/watch?v=oBgj6yDbfeU"
+        }
+      ]
+    },
+    {
+      "titulo": "Guia de Raças",
+      "cor": "#0082dc",
+      "link_extra": {
+        "text": "Um pequeno guia sobre algumas raças de gatos"        
+      },
+      "videos": [
+        {
+          "titulo": " ",
+          "url": " "
+        },
+        {
+          "titulo": "Bengal o gato selvagem Americano",
+          "url": "https://www.youtube.com/watch?v=HvtAvpFewgM&t=8s"
+        },
+        {
+          "titulo": "Sphynx o gato sem pelo",
+          "url": "https://www.youtube.com/watch?v=-vvG_NwO2YI&t=4s"
+        },
+        {
+          "titulo": "Singapura",
+          "url": "https://www.youtube.com/watch?v=FIaURizESVo"
+        },
+        {
+          "titulo": "British Shorthair",
+          "url": "https://www.youtube.com/watch?v=FrLc8wNHAcw"
+        },
+        {
+          "titulo": "Maine Coon",
+          "url": "https://www.youtube.com/watch?v=lhw9N8t-ZCw"
+        }
+      ]
+    }    
+  ]
+}
