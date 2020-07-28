@@ -12,7 +12,7 @@ function Footer() {
         <img className="ImageFooter" src={Logo} alt="Logo Kittenflix" />
       </a>
       <p>
-        Orgulhosamente criado por <a href="https://www.instagram.com/_augusto_neves/" target="blank">Augusto Neves</a> durante a
+        Criado por <a href="https://www.instagram.com/_augusto_neves/" target="blank">Augusto Neves</a> durante a
         {' '}
         <a href="https://www.alura.com.br/" target='blank'>
           Imersão React da Alura
