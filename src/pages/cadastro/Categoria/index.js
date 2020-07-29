@@ -9,7 +9,8 @@ function CadastroCategoria() {
         
         <form>
           <label>
-            Nome da Categoria: <input type="text"/>
+            Nome da Categoria: 
+            <input type="text"/>
           </label>
 
           <button>
