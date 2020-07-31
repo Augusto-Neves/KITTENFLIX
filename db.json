@@ -2,13 +2,25 @@
     "categorias": [
        { 
         "id": "1",   
-        "nome": "Front End",
+        "nome": "Gatinhos Brincando",
         "descricao": "Uma categorai da hora",
         "cor": "#cbd1ff"
        },
        { 
         "id": "2",   
-        "nome": "Back End",
+        "nome": "Gatos vs",
+        "descricao": "Uma categorai da hora",
+        "cor": "#cbd1ff"
+       },
+       { 
+        "id": "3",   
+        "nome": "Dicas",
+        "descricao": "Uma categorai da hora",
+        "cor": "#cbd1ff"
+       },
+       { 
+        "id": "4",   
+        "nome": "Guias de raças",
         "descricao": "Uma categorai da hora",
         "cor": "#cbd1ff"
        }
